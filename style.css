@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: grey;
+    text-align: center;
+}
+
+h1{
+    margin-top: 100px;
+}
+
+p{
+    font-size: 25px;
+    margin-top: 15px;
+    
+}
+
+ #height{
+    font-size: 25px;
+    border-radius: 10px;
+    border: none;
+}
+
+#weight{
+    
+    font-size: 25px;
+    border-radius: 10px;
+    border: none;
+} 
+
+button{
+    height: 40px;
+    width: 100px;
+    border-radius: 12px;
+    background-color: aqua;
+    font-size: 20px;
+    margin-left: 150px;
+
+}
+
+h3{
+    margin-top: 15px;
+}
+
+#results{
+    margin-top: 15px;
+    font-size: 28px;
+    color: red;
+}
+
+
+
+
+
